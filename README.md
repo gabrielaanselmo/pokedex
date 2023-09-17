@@ -8,3 +8,4 @@ O projeto da Pokédex Web com PokéAPI é uma aplicação interativa que permite
 ## 🛠 Funcionalidade
 - Pesquisa de Pokémon: Os usuários podem pesquisar o Pokémon pelo nome ou número da Pokédex e obter informações detalhadas sobre eles.
 ![image](https://github.com/gabrielaanselmo/pokedex/assets/112910372/b00d8e4e-7917-4a5c-a6d7-8e62c9947cef)
+link: https://pokedexpokem0n.netlify.app/
